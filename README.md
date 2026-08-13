@@ -18,7 +18,13 @@ browsing, search, and filtering features.
 PHP · MySQL · HTML · CSS · JavaScript · Bootstrap
 
 ## Screenshots
+### Customer Homepage — Desktop
 
+<img src="./screenshots/homepage-desktop.png" alt="Albaycation Customer Homepage" width="800">
+
+### Responsive Mobile Design
+
+<img src="./screenshots/homepage-mobile.png" alt="Albaycation Mobile Homepage" width="300">
 
 ## Project documentation
 This project followed a full design process before implementation:
