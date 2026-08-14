@@ -11,8 +11,6 @@ browsing, search, and filtering features.
 ## What it does
 - Customer and Admin account registration and login
 - Package browsing with search and filter functionality
-- [Add 1-2 more real features here, e.g. booking flow, payment step, admin
-  package management — whatever else the group built]
 
 ## Tech stack
 PHP · MySQL · HTML · CSS · JavaScript · Bootstrap
